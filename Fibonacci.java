@@ -15,5 +15,6 @@ public class Fibonacci {
         System.out.println("Enter a number : ");
         int input=sc.nextInt();
         fibonacci_calculator(input);
+        sc.close();
     }
 }

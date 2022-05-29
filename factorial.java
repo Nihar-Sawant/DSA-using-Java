@@ -15,5 +15,6 @@ public class factorial {
         System.out.println("Enter a number : ");
         int input=sc.nextInt();
         factorial_calculator(input);
+        sc.close();
     }
 }
