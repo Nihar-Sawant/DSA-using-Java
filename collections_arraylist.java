@@ -46,7 +46,7 @@ public class collections_arraylist {
         //Retreving number from a specified index
         System.out.println("Retreving number i.e. on index 2 : "+li.get(2));
 
-        //Retreving number from a specified index
+        //updating number from a specified index
         li.set(2, 101);
 
         //Display List
